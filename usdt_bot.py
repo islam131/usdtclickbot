@@ -5,8 +5,8 @@ import os
 from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, CallbackContext
 
-TOKEN = os.getenv("8093648591:AAGGh-Mdzo9W15AxR2xwgKJ0SJg62kdtmiY")
-ADMIN_ID = os.getenv("6991944640")
+TOKEN = os.getenv("BOT TOKEN ")
+ADMIN_ID = os.getenv("ID")
 DATA_FILE = 'data.json'
 CLICK_REWARD = 10
 REF_BONUS = 25
